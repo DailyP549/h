@@ -1,0 +1,5 @@
+- [x] Edit src/app/layout.tsx: Disable preload for Geist_Mono font
+- [x] Edit src/utils/urlPathGenerator.ts: Add null check for searchParams
+- [x] Edit eslint.config.mjs: Add .js extension to import path
+- [x] Edit next.config.ts: Move experimental.turbo to config.turbopack
+- [ ] Run npm run build to verify fixes
