@@ -252,7 +252,9 @@ Event: Smart India Hackathon 2025
 
 Email: [sansukumar57@gmail.com]
 YouTube:[Youtube link: https://youtube.com/@dotcoders-o1t?feature=shared]
-
+deployed :[(https://h-git-main-sans-projects-fa4f19e8.vercel.app?_vercel_share=pfCoZDpj2IbST6W5UbxaVZQ7DEaOk2oo)]
+else
+:[
 Issues: GitHub Issues
 
 <div align="center">
